@@ -5,7 +5,7 @@ El integrado LTC2440 es un conversor analógico digital de 24 bits de resolució
 
 2. A continuación se muestran las conexiones entre el LTC2440 y el Arduino Uno:
 
-Arduino  -  LTC2440
+Arduino  -  LTC2440: 
  SCK     -   SCK
  SS      -   CS
  MISO    -   SDO
