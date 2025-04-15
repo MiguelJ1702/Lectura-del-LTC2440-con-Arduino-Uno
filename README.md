@@ -1,4 +1,4 @@
-Para leer los valores de v
+El integrado LTC2440 es un conversor analógico digital de 24 bits de resolución de la empresa Analog Devices; su comunicación con el Arduino Uno, y en general, con cualquier microcontrolador, es mediante el protocolo SPI. Para leer 
 
 A continuación se muestran las conexiones entre el LTC2440 y el Arduino Uno.
 
